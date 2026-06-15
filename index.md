@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Start to GitHub Pages
 ---
+
+I am just testing how this works
